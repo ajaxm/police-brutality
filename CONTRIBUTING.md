@@ -84,6 +84,7 @@ People have been regularly posting evidence to the following sources:
 - [/r/PublicFreakout subreddit](https://www.reddit.com/r/PublicFreakout/)
 - [#BlackLivesMatter](https://twitter.com/search?q=%23BlackLivesMatter) and [#BLM](https://twitter.com/search?q=%23BLM) on Twitter
 - [#JusticeForGeorgeFloyd](https://twitter.com/hashtag/JusticeForGeorgeFloyd) on Twitter
+- [#PoliceBrutality](https://twitter.com/hashtag/PoliceBrutality) on Twitter
 - [#[CityName]riots](https://twitter.com/hashtag/austinriots) & [#[CityName]protest(s)](https://twitter.com/search?q=%23AtlantaProtests) on Twitter
 
 #### 2. Add it to the repo
@@ -191,7 +192,7 @@ On the bottom of the editor, write a title and a brief description of your chang
 
 **5. Commit!**
 
-Click "Propose file change" and you're done!
+Click "Propose file change" then "Create pull request" and you're done!
 
 #### Incident Report Format
 
